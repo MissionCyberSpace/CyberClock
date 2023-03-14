@@ -1,0 +1,14 @@
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\2000sclock\2000sclock\bin\Debug\2000sclock.exe.config
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\2000sclock\2000sclock\bin\Debug\2000sclock.exe
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\2000sclock\2000sclock\bin\Debug\2000sclock.pdb
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\2000sclock\2000sclock\obj\Debug\2000sclock.csprojResolveAssemblyReference.cache
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\2000sclock\2000sclock\obj\Debug\MainWindow.g.cs
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\2000sclock\2000sclock\obj\Debug\App.g.cs
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\2000sclock\2000sclock\obj\Debug\2000sclock_MarkupCompile.cache
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\2000sclock\2000sclock\obj\Debug\2000sclock_MarkupCompile.lref
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\2000sclock\2000sclock\obj\Debug\MainWindow.baml
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\2000sclock\2000sclock\obj\Debug\2000sclock.g.resources
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\2000sclock\2000sclock\obj\Debug\_2000sclock.Properties.Resources.resources
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\2000sclock\2000sclock\obj\Debug\2000sclock.csproj.GenerateResource.Cache
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\2000sclock\2000sclock\obj\Debug\2000sclock.exe
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\2000sclock\2000sclock\obj\Debug\2000sclock.pdb
