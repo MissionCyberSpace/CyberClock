@@ -8,6 +8,7 @@ I hope you enjoy my little program, and stay tuned for more updates of this prog
 Created: Monday, March 13th, 2023. Clock (Hours/Minutes/Seconds), Date (Day of the Week/Day Number/Month), Window can be dragged around, and Close button closes program. 
 
 Future Plans:
+
 A zero in front of the hour when only a single digit. For example currently it says "1:25". I need it to be "01:25".
 
 PM/AM in the corner.
